@@ -1,0 +1,2 @@
+# NLP-Discord-Bot
+Licensed
